@@ -1,0 +1,11 @@
+./code_samples/R-Examples/DataManipulation.R
+./code_samples/R-Examples/R_Intro.R
+./code_samples/R-Examples/Data_Visualization.R
+./code_samples/R-Examples/Module-6-Overall-Example.R
+./code_samples/R-Examples/Training-Example1.R
+./code_samples/R-Examples/Module-3-Overall-Example.R
+./code_samples/R-Examples/Module-1-Example-9.R
+./code_samples/R-Examples/mini-project-solution-3.R
+./code_samples/R-Examples/mini-project-solution-5.R
+./code_samples/R-Examples/Module-1-Overall-Example.R
+./code_samples/R-Examples/Module-2-Example-2.R

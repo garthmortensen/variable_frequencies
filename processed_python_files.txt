@@ -1,0 +1,5 @@
+./code_samples/DeepSeek-V3/inference/convert.py
+./code_samples/DeepSeek-V3/inference/fp8_cast_bf16.py
+./code_samples/DeepSeek-V3/inference/generate.py
+./code_samples/DeepSeek-V3/inference/kernel.py
+./code_samples/DeepSeek-V3/inference/model.py
